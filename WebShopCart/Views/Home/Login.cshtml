@@ -1,3 +1,4 @@
+@model WebShopCart.Models.UserIdentity
 @{
     ViewData["Title"] = "Login";
 }
@@ -10,15 +11,17 @@
                 <div class="login-form">
                     <!--login form-->
                     <h2>Login to your account</h2>
-                    <form action="#">
-                        <input type="text" placeholder="Name" />
-                        <input type="email" placeholder="Email Address" />
-                        <span>
-                            <input type="checkbox" class="checkbox">
-                            Keep me signed in
-                        </span>
-                        <button type="submit" class="btn btn-default">Login</button>
-                    </form>
+                    @using (Html.BeginForm("Login", "Home"))
+                    {
+                        <label>User Name:</label>
+                        @Html.TextBoxFor(m => m.user_name)
+                        @* @Html.ValidationMessageFor(m => m.user_name) *@
+
+                        <label>Password:</label>
+                        @Html.PasswordFor(m => m.password)
+
+                        <button type="submit" class="btn btn-default" value="Submit">Login</button>
+                    }
                 </div><!--/login form-->
             </div>
             <div class="col-sm-1">
@@ -27,13 +30,7 @@
             <div class="col-sm-4">
                 <div class="signup-form">
                     <!--sign up form-->
-                    <h2>New User Signup!</h2>
-                    <form action="#">
-                        <input type="text" placeholder="Name" />
-                        <input type="email" placeholder="Email Address" />
-                        <input type="password" placeholder="Password" />
-                        <button type="submit" class="btn btn-default">Signup</button>
-                    </form>
+                    <h2><a asp-area="" asp-controller="Home" asp-action="SignUp">New User Signup!</a></h2>
                 </div><!--/sign up form-->
             </div>
         </div>

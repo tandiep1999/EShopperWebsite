@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+Startup initObject = new Startup();
+initObject.ConfigureServices(builder); //Configure DB Context
 
 var app = builder.Build();
 

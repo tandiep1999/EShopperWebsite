@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\models\\useridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\models\\useridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\models\\userregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|d:\\linh tinh\\dotnet\\webshopcart\\webshopcart\\webshopcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F7C055-BAF8-4E41-BB07-5F3C753E8173}|WebShopCart\\WebShopCart.csproj|solutionrelative:webshopcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,145 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:45:02.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAywJEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:45:11.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Products.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\Products.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Products.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\Products.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:40:30.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Cart.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\Cart.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Cart.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\Cart.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAywBYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:44:55.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CheckOut.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\CheckOut.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\CheckOut.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\CheckOut.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\CheckOut.cshtml",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAywHwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:44:59.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebShopCart\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebShopCart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAywK0AAAAMAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:45:45.168Z",
+              "WhenOpened": "2024-04-13T13:43:45.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebShopCart\\Services\\UserService.cs",
+              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Services\\UserService.cs",
+              "RelativeToolTip": "WebShopCart\\Services\\UserService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:28:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserIdentity.cs",
+              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\UserIdentity.cs",
+              "RelativeDocumentMoniker": "WebShopCart\\Models\\UserIdentity.cs",
+              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\UserIdentity.cs",
+              "RelativeToolTip": "WebShopCart\\Models\\UserIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:13:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationModel.cs",
+              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\UserRegistrationModel.cs",
+              "RelativeDocumentMoniker": "WebShopCart\\Models\\UserRegistrationModel.cs",
+              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\UserRegistrationModel.cs",
+              "RelativeToolTip": "WebShopCart\\Models\\UserRegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:13:20.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAywBkAAAAoAAAA",
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "WebShopCart\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:38:24.562Z",
+              "WhenOpened": "2024-04-13T13:13:10.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebShopCart\\Models\\User.cs",
+              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Models\\User.cs",
+              "RelativeToolTip": "WebShopCart\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:55:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\Login.cshtml",
               "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "WebShopCart\\Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:44:44.845Z",
+              "WhenOpened": "2024-04-13T09:17:19.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BlogSingle.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\BlogSingle.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\BlogSingle.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\BlogSingle.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\BlogSingle.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:44:52.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlogList.cshtml",
-              "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\BlogList.cshtml",
-              "RelativeDocumentMoniker": "WebShopCart\\Views\\Home\\BlogList.cshtml",
-              "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Views\\Home\\BlogList.cshtml",
-              "RelativeToolTip": "WebShopCart\\Views\\Home\\BlogList.cshtml",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAywIkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T02:44:49.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebShopCart\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Linh Tinh\\DotNet\\WebShopCart\\WebShopCart\\WebShopCart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebShopCart\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAmwA8AAAAkAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T02:11:24.176Z",
+              "WhenOpened": "2024-04-13T09:15:10.688Z",
               "EditorCaption": ""
             }
           ]
